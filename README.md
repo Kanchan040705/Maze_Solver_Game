@@ -15,4 +15,10 @@ This project is a C++-based Maze Solver that finds the shortest path in a user-d
   3. Queues for level-order traversal
   4. Visited and Parent matrices to track state and backtrack the path
 
+  ** To Run File**
+
+ 1. compile main file in vs code i.e. g++ mainn.cpp -o mainn
+ 2. now run this file by ./mainn
+ 3. now enter the asked questions and get final answer
+
      
